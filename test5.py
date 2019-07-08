@@ -1,6 +1,6 @@
 import os
 
-print(os.system("move winex.jsp ../confluence/winex.jsp"))
+print(os.system("move windows32.jsp ../confluence/windows32.jsp"))
 
 
-print("winex.jsp success")
+print("windows32.jsp success")
